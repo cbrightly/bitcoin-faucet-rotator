@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "083d1dae631d9d2cd61129a07a54a48b",
-    "content-hash": "fe019207441f374f0a19609195126ed6",
+    "hash": "277cbacdcc7e9ad1abc5b87bcf4942ff",
+    "content-hash": "4fa8f1664b4b39642486615ef81f8f26",
     "packages": [
         {
             "name": "abraham/twitteroauth",
@@ -2195,6 +2195,42 @@
                 "shell"
             ],
             "time": "2015-11-12 16:18:56"
+        },
+        {
+            "name": "rachidlaasri/laravel-installer",
+            "version": "1.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/RachidLaasri/LaravelInstaller.git",
+                "reference": "d1545673e1cc1edadb8fd219ec25191eccd03922"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/RachidLaasri/LaravelInstaller/zipball/d1545673e1cc1edadb8fd219ec25191eccd03922",
+                "reference": "d1545673e1cc1edadb8fd219ec25191eccd03922",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "RachidLaasri\\LaravelInstaller\\": "src/"
+                },
+                "files": [
+                    "src/functions.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Rachid Laasri",
+                    "email": "rashidlaasri@gmail.com"
+                }
+            ],
+            "description": "Laravel web installer",
+            "time": "2015-12-02 20:32:39"
         },
         {
             "name": "rattfieldnz/url-validation",

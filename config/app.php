@@ -142,6 +142,7 @@ return [
 		'Roumen\Feed\FeedServiceProvider',
         'Chromabits\Purifier\PurifierServiceProvider',
 		'SocialEngine\SnifferRules\ServiceProvider',
+		'RachidLaasri\LaravelInstaller\Providers\LaravelInstallerServiceProvider',
 		/*
 		 * Application Service Providers...
 		 */
