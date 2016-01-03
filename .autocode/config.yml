@@ -1,0 +1,7 @@
+name: rattfieldnz/bitcoin-faucet-rotator
+author:
+  name: Rob Attfield
+  email: emailme@robertattfield.com
+  url: 'http://www.robertattfield.com'
+copyright: 2015 Rob Attfield
+description: 'A database-driven bitcoin faucet rotator built with Laravel version 5.*.'
